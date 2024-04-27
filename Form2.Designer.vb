@@ -51,6 +51,7 @@ Partial Class Form2
         Me.coordLabel = New System.Windows.Forms.Label()
         Me.rueTextBox = New System.Windows.Forms.TextBox()
         Me.rueLabel = New System.Windows.Forms.Label()
+        Me.donneeLabel = New System.Windows.Forms.Label()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.Panel1.SuspendLayout()
         Me.Panel3.SuspendLayout()
@@ -61,7 +62,7 @@ Partial Class Form2
         '
         Me.nidsLabel.AutoSize = True
         Me.nidsLabel.Font = New System.Drawing.Font("Sans Serif Collection", 7.999999!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.nidsLabel.Location = New System.Drawing.Point(376, 176)
+        Me.nidsLabel.Location = New System.Drawing.Point(294, 175)
         Me.nidsLabel.Name = "nidsLabel"
         Me.nidsLabel.Size = New System.Drawing.Size(346, 39)
         Me.nidsLabel.TabIndex = 2
@@ -120,6 +121,7 @@ Partial Class Form2
         'Panel3
         '
         Me.Panel3.BackColor = System.Drawing.Color.White
+        Me.Panel3.Controls.Add(Me.donneeLabel)
         Me.Panel3.Controls.Add(Me.comDateLabel)
         Me.Panel3.Controls.Add(Me.comDateTextBox)
         Me.Panel3.Controls.Add(Me.typeComboBox)
@@ -352,6 +354,16 @@ Partial Class Form2
         Me.rueLabel.TabIndex = 3
         Me.rueLabel.Text = "Rue:"
         '
+        'donneeLabel
+        '
+        Me.donneeLabel.AutoSize = True
+        Me.donneeLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.donneeLabel.Location = New System.Drawing.Point(1013, 768)
+        Me.donneeLabel.Name = "donneeLabel"
+        Me.donneeLabel.Size = New System.Drawing.Size(176, 25)
+        Me.donneeLabel.TabIndex = 24
+        Me.donneeLabel.Text = "Données reçues:"
+        '
         'Form2
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
@@ -404,4 +416,5 @@ Partial Class Form2
     Friend WithEvents typeLabel As Label
     Friend WithEvents comDateLabel As Label
     Friend WithEvents comDateTextBox As TextBox
+    Friend WithEvents donneeLabel As Label
 End Class
