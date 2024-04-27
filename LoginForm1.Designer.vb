@@ -86,20 +86,24 @@ Partial Class LoginForm1
         '
         'OK
         '
+        Me.OK.BackColor = System.Drawing.Color.White
         Me.OK.Location = New System.Drawing.Point(99, 296)
         Me.OK.Name = "OK"
         Me.OK.Size = New System.Drawing.Size(94, 31)
         Me.OK.TabIndex = 4
         Me.OK.Text = "&OK"
+        Me.OK.UseVisualStyleBackColor = False
         '
         'Cancel
         '
+        Me.Cancel.BackColor = System.Drawing.Color.White
         Me.Cancel.DialogResult = System.Windows.Forms.DialogResult.Cancel
         Me.Cancel.Location = New System.Drawing.Point(282, 296)
         Me.Cancel.Name = "Cancel"
         Me.Cancel.Size = New System.Drawing.Size(94, 31)
         Me.Cancel.TabIndex = 5
         Me.Cancel.Text = "&Annuler"
+        Me.Cancel.UseVisualStyleBackColor = False
         '
         'gestionLabel
         '
@@ -118,6 +122,7 @@ Partial Class LoginForm1
         Me.AcceptButton = Me.OK
         Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
+        Me.BackColor = System.Drawing.SystemColors.Control
         Me.CancelButton = Me.Cancel
         Me.ClientSize = New System.Drawing.Size(501, 349)
         Me.Controls.Add(Me.gestionLabel)

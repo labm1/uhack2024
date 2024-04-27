@@ -1,7 +1,9 @@
 Public Class LoginForm1
 
     Private Sub OK_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles OK.Click
-        If UsernameTextBox.Text <> "" Then
+        If UsernameTextBox.Text = "gerant" Then
+            Form3.Show()
+        ElseIf UsernameTextBox.Text <> "" Then
             Form1.Show()
         End If
     End Sub

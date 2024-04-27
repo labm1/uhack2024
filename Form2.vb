@@ -16,12 +16,15 @@
         Me.Close()
     End Sub
 
-    Private Sub ouiCheckBox_CheckedChanged(sender As Object, e As EventArgs) Handles ouiCheckBox.CheckedChanged
-        comTextBox.ReadOnly = Not ouiCheckBox.Checked
+    Private Sub ouiCheckBox_CheckedChanged(sender As Object, e As EventArgs) Handles comCheckBox.CheckedChanged
+        comTextBox.ReadOnly = Not comCheckBox.Checked
+        If comCheckBox.Checked Then
+            comDateTextBox.Text = Date.Today & " " & TimeOfDay.Hour & ":" & TimeOfDay.Minute
+        End If
     End Sub
 
     Private Sub envoyerButton_Click(sender As Object, e As EventArgs) Handles envoyerButton.Click
-        If ouiCheckBox.Checked Then
+        If comCheckBox.Checked Then
             Form1.nidsCompListBox.Items.Add(Form1.nidsListBox.SelectedItem)
             Form1.nidsListBox.Items.Remove(Form1.nidsListBox.SelectedItem)
             Me.Close()
