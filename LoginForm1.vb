@@ -1,8 +1,9 @@
 Public Class LoginForm1
 
     Private Sub OK_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles OK.Click
-        Form1.Show()
-        Me.Close()
+        If UsernameTextBox.Text <> "" Then
+            Form1.Show()
+        End If
     End Sub
 
     Private Sub Cancel_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Cancel.Click
