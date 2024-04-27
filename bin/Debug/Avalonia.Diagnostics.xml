@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Avalonia.Diagnostics</name>
+    </assembly>
+    <members>
+        <member name="T:Avalonia.DevToolsExtensions">
+            <summary>
+            Extension methods for attaching DevTools..
+            </summary>
+        </member>
+        <member name="M:Avalonia.DevToolsExtensions.AttachDevTools(Avalonia.Controls.TopLevel)">
+            <summary>
+            Attaches DevTools to a window, to be opened with the F12 key.
+            </summary>
+            <param name="root">The window to attach DevTools to.</param>
+        </member>
+        <member name="M:Avalonia.DevToolsExtensions.AttachDevTools(Avalonia.Controls.TopLevel,Avalonia.Input.KeyGesture)">
+            <summary>
+            Attaches DevTools to a window, to be opened with the specified key gesture.
+            </summary>
+            <param name="root">The window to attach DevTools to.</param>
+            <param name="gesture">The key gesture to open DevTools.</param>
+        </member>
+        <member name="M:Avalonia.DevToolsExtensions.AttachDevTools(Avalonia.Controls.TopLevel,Avalonia.Diagnostics.DevToolsOptions)">
+            <summary>
+            Attaches DevTools to a window, to be opened with the specified options.
+            </summary>
+            <param name="root">The window to attach DevTools to.</param>
+            <param name="options">Additional settings of DevTools.</param>
+        </member>
+        <member name="T:Avalonia.Diagnostics.DevToolsOptions">
+            <summary>
+            Describes options used to customize DevTools.
+            </summary>
+        </member>
+        <member name="P:Avalonia.Diagnostics.DevToolsOptions.Gesture">
+            <summary>
+            Gets or sets the key gesture used to open DevTools.
+            </summary>
+        </member>
+        <member name="P:Avalonia.Diagnostics.DevToolsOptions.ShowAsChildWindow">
+            <summary>
+            Gets or sets a value indicating whether DevTools should be displayed as a child window
+            of the window being inspected. The default value is true.
+            </summary>
+        </member>
+        <member name="P:Avalonia.Diagnostics.DevToolsOptions.Size">
+            <summary>
+            Gets or sets the initial size of the DevTools window. The default value is 1280x720.
+            </summary>
+        </member>
+    </members>
+</doc>
