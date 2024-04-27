@@ -1,81 +1,59 @@
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Animation.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Base.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.Controls.DataGrid.0.10.6\lib\netstandard2.0\Avalonia.Controls.DataGrid.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Controls.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.DesignerSupport.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.Desktop.0.10.6\lib\netstandard2.0\Avalonia.Desktop.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.DesktopRuntime.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.Diagnostics.0.10.6\lib\netstandard2.0\Avalonia.Diagnostics.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Dialogs.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.FreeDesktop.0.10.6\lib\netstandard2.0\Avalonia.FreeDesktop.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Input.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Interactivity.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Layout.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Markup.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Markup.Xaml.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.MicroCom.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.Native.0.10.6\lib\netstandard2.0\Avalonia.Native.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.OpenGL.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.Remote.Protocol.0.10.6\lib\netstandard2.0\Avalonia.Remote.Protocol.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.Skia.0.10.6\lib\netstandard2.0\Avalonia.Skia.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Styling.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Themes.Default.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Themes.Fluent.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.0.10.6\lib\net461\Avalonia.Visuals.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.Win32.0.10.6\lib\netstandard2.0\Avalonia.Win32.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Avalonia.X11.0.10.6\lib\netstandard2.0\Avalonia.X11.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\GMap.NET.WinAvalonia.2.1.7\lib\net472\GMap.NET.Avalonia.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\GMap.NET.Core.2.1.7\lib\net472\GMap.NET.Core.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\GMap.NET.WinForms.2.1.7\lib\net472\GMap.NET.WindowsForms.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\GMap.NET.WinForms.Utils.2.1.7\lib\net472\GMap.NET.WindowsForms.Utils.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\GMap.NET.WinPresentation.2.1.7\lib\net472\GMap.NET.WindowsPresentation.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\HarfBuzzSharp.2.6.1.7\lib\net462\HarfBuzzSharp.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\JetBrains.Annotations.10.3.0\lib\net\JetBrains.Annotations.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\LINQPad.5.40.0\lib\net46\LINQPad.exe
-C:\Users\mlabe\source\repos\uhack2024\packages\LINQPad.5.40.0\lib\net46\lprun.exe
-C:\Users\mlabe\source\repos\uhack2024\packages\Microsoft.CodeAnalysis.CSharp.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Microsoft.CodeAnalysis.CSharp.Scripting.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Microsoft.CodeAnalysis.Common.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Microsoft.CodeAnalysis.Scripting.Common.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Animation.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Base.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Controls.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.DesignerSupport.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.DesktopRuntime.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Dialogs.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Input.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Interactivity.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Layout.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Markup.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Markup.Xaml.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.MicroCom.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.OpenGL.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.Remote.Protocol.0.10.6\lib\netstandard2.0\Avalonia.Remote.Protocol.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Styling.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Themes.Default.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Themes.Fluent.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Avalonia.0.10.6\lib\net461\Avalonia.Visuals.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\EntityFramework.6.4.4\lib\net45\EntityFramework.SqlServer.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\JetBrains.Annotations.10.3.0\lib\net\JetBrains.Annotations.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Microsoft.CodeAnalysis.CSharp.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Microsoft.CodeAnalysis.Common.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Microsoft.CodeAnalysis.Scripting.Common.3.4.0\lib\netstandard2.0\Microsoft.CodeAnalysis.Scripting.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Microsoft.CSharp.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Polylines.1.0.0\lib\Polylines.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\SkiaSharp.2.80.2\lib\net462\SkiaSharp.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Collections.Immutable.1.5.0\lib\netstandard2.0\System.Collections.Immutable.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.ComponentModel.Annotations.4.5.0\lib\net461\System.ComponentModel.Annotations.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Polylines.1.0.0\lib\Polylines.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Buffers.4.4.0\lib\netstandard2.0\System.Buffers.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Collections.Immutable.1.5.0\lib\netstandard2.0\System.Collections.Immutable.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.ComponentModel.Annotations.4.5.0\lib\net461\System.ComponentModel.Annotations.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.ComponentModel.DataAnnotations.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Core.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Data.DataSetExtensions.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Data.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\lib\net46\System.Data.SQLite.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Data.SQLite.EF6.1.0.115.5\lib\net46\System.Data.SQLite.EF6.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Data.SQLite.Linq.1.0.115.5\lib\net46\System.Data.SQLite.Linq.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Data.SqlClient.4.8.3\lib\net461\System.Data.SqlClient.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\Stub.System.Data.SQLite.Core.NetFramework.1.0.115.5\lib\net46\System.Data.SQLite.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Data.SQLite.EF6.1.0.115.5\lib\net46\System.Data.SQLite.EF6.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Data.SQLite.Linq.1.0.115.5\lib\net46\System.Data.SQLite.Linq.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Deployment.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Drawing.Common.4.5.0\lib\net461\System.Drawing.Common.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Drawing.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Memory.4.5.3\lib\netstandard2.0\System.Memory.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Net.Http.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Numerics.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Reactive.5.0.0\lib\net472\System.Reactive.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Reflection.Metadata.1.6.0\lib\netstandard2.0\System.Reflection.Metadata.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Runtime.CompilerServices.Unsafe.4.6.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Reactive.5.0.0\lib\net472\System.Reactive.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Reflection.Metadata.1.6.0\lib\netstandard2.0\System.Reflection.Metadata.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Runtime.CompilerServices.Unsafe.4.6.0\lib\netstandard2.0\System.Runtime.CompilerServices.Unsafe.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Facades\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Security.Principal.Windows.5.0.0\lib\net461\System.Security.Principal.Windows.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Text.Encoding.CodePages.4.5.1\lib\net461\System.Text.Encoding.CodePages.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Text.Encoding.CodePages.4.5.1\lib\net461\System.Text.Encoding.CodePages.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll
+C:\Users\mlabe\source\repos\uhack2024_2\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Windows.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Windows.Forms.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Xml.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\System.Xml.Linq.dll
-C:\Users\mlabe\source\repos\uhack2024\packages\Tmds.DBus.0.9.0\lib\netstandard2.0\Tmds.DBus.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\WindowsBase.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Facades\Microsoft.Win32.Primitives.dll
 C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.7.2\Facades\netstandard.dll
