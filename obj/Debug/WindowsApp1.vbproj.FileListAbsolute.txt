@@ -508,3 +508,4 @@ C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsA.0BF81A2F.Up2Date
 C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.exe
 C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.xml
 C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.pdb
+C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.LoginForm1.resources
