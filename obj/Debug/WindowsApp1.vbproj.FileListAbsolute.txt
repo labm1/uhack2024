@@ -509,3 +509,5 @@ C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.exe
 C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.xml
 C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.pdb
 C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.LoginForm1.resources
+C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.Form2.resources
+C:\Users\mlabe\source\repos\uhack2024_2\obj\Debug\WindowsApp1.Form3.resources
