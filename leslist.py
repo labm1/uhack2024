@@ -7,6 +7,8 @@ global Nprioritaire
 global y # facteur qui determine si prioritaire ou non
 global datacomplete
 # ajouter a liste et blocker si deja existant
+#les request faite en ligne du 311 arrive directement ici
+#ceux des dashcams vont d abbord ce faire passer par le ai
 def ajouter_a_liste(x): # est une objet nidpoule
     if (x.profondeur==y) :
         if not (prioritaire.index(x.coordinates)and erreurT (x,prioritaire) ):
@@ -14,7 +16,7 @@ def ajouter_a_liste(x): # est une objet nidpoule
     else :
         if not (Nprioritaire.index(x.coordinates)and erreurT (x,Nprioritaire)):
             Nprioritaire.append(x)
-# retourn faux si a l<interieur de 5 m pour reduire 
+# retourn faux si a l interieur de 5 m pour reduire les repetition
 def erreurT (x,y):
     T=x.coordinates
     for i in y:
