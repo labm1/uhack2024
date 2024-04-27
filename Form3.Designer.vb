@@ -40,11 +40,12 @@ Partial Class Form3
         '
         'nidsCompListBox
         '
+        Me.nidsCompListBox.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.nidsCompListBox.FormattingEnabled = True
-        Me.nidsCompListBox.ItemHeight = 20
+        Me.nidsCompListBox.ItemHeight = 25
         Me.nidsCompListBox.Location = New System.Drawing.Point(65, 637)
         Me.nidsCompListBox.Name = "nidsCompListBox"
-        Me.nidsCompListBox.Size = New System.Drawing.Size(1525, 524)
+        Me.nidsCompListBox.Size = New System.Drawing.Size(1525, 504)
         Me.nidsCompListBox.TabIndex = 5
         '
         'nidsCompLabel
@@ -59,11 +60,12 @@ Partial Class Form3
         '
         'nidsListBox
         '
+        Me.nidsListBox.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.nidsListBox.FormattingEnabled = True
-        Me.nidsListBox.ItemHeight = 20
+        Me.nidsListBox.ItemHeight = 25
         Me.nidsListBox.Location = New System.Drawing.Point(65, 187)
         Me.nidsListBox.Name = "nidsListBox"
-        Me.nidsListBox.Size = New System.Drawing.Size(1525, 324)
+        Me.nidsListBox.Size = New System.Drawing.Size(1525, 304)
         Me.nidsListBox.TabIndex = 3
         '
         'nidsLabel
@@ -148,8 +150,9 @@ Partial Class Form3
         Me.Controls.Add(Me.Panel1)
         Me.Controls.Add(Me.Panel2)
         Me.Controls.Add(Me.Panel3)
+        Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.Name = "Form3"
-        Me.Text = "Form3"
+        Me.Text = "Gestion Nids de Poule VDG"
         Me.WindowState = System.Windows.Forms.FormWindowState.Maximized
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).EndInit()
         Me.Panel1.ResumeLayout(False)

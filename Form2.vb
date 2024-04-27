@@ -6,13 +6,19 @@
 
         titreLabel.Text = Form1.titreLabel.Text
 
-        Dim nid As String = Form1.nidsListBox.SelectedItem
+        Dim nid As String = Form1.nidsListBox.SelectedItem.ToString.Substring(0, 50)
         nidsLabel.Text = nid
+
+        rueTextBox.Text = "Boulevard Alexandre-Taché"
+        coordTextBox.Text = "45.422718, -75.741300"
+        dateTextBox.Text = "2024-04-27 14:21"
+        typeComboBox.SelectedText = typeComboBox.Items.Item(0)
+        equipeTextBox.Text = "1"
+        dimTextBox.Text = "40 x 35 cm, 10 cm de profondeur"
+
     End Sub
 
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
-        Form1.Show()
-        Form1.titreLabel.Text = titreLabel.Text
         Me.Close()
     End Sub
 

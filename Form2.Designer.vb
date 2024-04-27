@@ -151,7 +151,7 @@ Partial Class Form2
         '
         Me.comDateLabel.AutoSize = True
         Me.comDateLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.comDateLabel.Location = New System.Drawing.Point(1267, 716)
+        Me.comDateLabel.Location = New System.Drawing.Point(499, 741)
         Me.comDateLabel.Name = "comDateLabel"
         Me.comDateLabel.Size = New System.Drawing.Size(157, 25)
         Me.comDateLabel.TabIndex = 23
@@ -160,7 +160,7 @@ Partial Class Form2
         'comDateTextBox
         '
         Me.comDateTextBox.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.comDateTextBox.Location = New System.Drawing.Point(1430, 711)
+        Me.comDateTextBox.Location = New System.Drawing.Point(672, 736)
         Me.comDateTextBox.Name = "comDateTextBox"
         Me.comDateTextBox.ReadOnly = True
         Me.comDateTextBox.Size = New System.Drawing.Size(211, 30)
@@ -189,7 +189,7 @@ Partial Class Form2
         '
         Me.locLabel.AutoSize = True
         Me.locLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.locLabel.Location = New System.Drawing.Point(1013, 185)
+        Me.locLabel.Location = New System.Drawing.Point(1013, 250)
         Me.locLabel.Name = "locLabel"
         Me.locLabel.Size = New System.Drawing.Size(134, 25)
         Me.locLabel.TabIndex = 19
@@ -197,8 +197,9 @@ Partial Class Form2
         '
         'PictureBox2
         '
+        Me.PictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.PictureBox2.Image = CType(resources.GetObject("PictureBox2.Image"), System.Drawing.Image)
-        Me.PictureBox2.Location = New System.Drawing.Point(1010, 213)
+        Me.PictureBox2.Location = New System.Drawing.Point(1018, 278)
         Me.PictureBox2.Name = "PictureBox2"
         Me.PictureBox2.Size = New System.Drawing.Size(679, 457)
         Me.PictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom
@@ -228,7 +229,7 @@ Partial Class Form2
         '
         'envoyerButton
         '
-        Me.envoyerButton.Location = New System.Drawing.Point(1049, 1126)
+        Me.envoyerButton.Location = New System.Drawing.Point(301, 1128)
         Me.envoyerButton.Name = "envoyerButton"
         Me.envoyerButton.Size = New System.Drawing.Size(153, 31)
         Me.envoyerButton.TabIndex = 15
@@ -239,7 +240,7 @@ Partial Class Form2
         '
         Me.comCheckBox.AutoSize = True
         Me.comCheckBox.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.comCheckBox.Location = New System.Drawing.Point(1049, 711)
+        Me.comCheckBox.Location = New System.Drawing.Point(301, 736)
         Me.comCheckBox.Name = "comCheckBox"
         Me.comCheckBox.Size = New System.Drawing.Size(130, 29)
         Me.comCheckBox.TabIndex = 14
@@ -258,18 +259,18 @@ Partial Class Form2
         'comTextBox
         '
         Me.comTextBox.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.comTextBox.Location = New System.Drawing.Point(1049, 796)
+        Me.comTextBox.Location = New System.Drawing.Point(301, 807)
         Me.comTextBox.Multiline = True
         Me.comTextBox.Name = "comTextBox"
         Me.comTextBox.ReadOnly = True
-        Me.comTextBox.Size = New System.Drawing.Size(592, 299)
+        Me.comTextBox.Size = New System.Drawing.Size(582, 299)
         Me.comTextBox.TabIndex = 12
         '
         'comLabel
         '
         Me.comLabel.AutoSize = True
         Me.comLabel.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.comLabel.Location = New System.Drawing.Point(1044, 768)
+        Me.comLabel.Location = New System.Drawing.Point(296, 779)
         Me.comLabel.Name = "comLabel"
         Me.comLabel.Size = New System.Drawing.Size(158, 25)
         Me.comLabel.TabIndex = 11

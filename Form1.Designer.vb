@@ -63,8 +63,9 @@ Partial Class Form1
         '
         'nidsListBox
         '
+        Me.nidsListBox.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.nidsListBox.FormattingEnabled = True
-        Me.nidsListBox.ItemHeight = 20
+        Me.nidsListBox.ItemHeight = 25
         Me.nidsListBox.Location = New System.Drawing.Point(65, 187)
         Me.nidsListBox.Name = "nidsListBox"
         Me.nidsListBox.Size = New System.Drawing.Size(1525, 204)
@@ -72,8 +73,9 @@ Partial Class Form1
         '
         'nidsCompListBox
         '
+        Me.nidsCompListBox.Font = New System.Drawing.Font("Microsoft Sans Serif", 10.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.nidsCompListBox.FormattingEnabled = True
-        Me.nidsCompListBox.ItemHeight = 20
+        Me.nidsCompListBox.ItemHeight = 25
         Me.nidsCompListBox.Location = New System.Drawing.Point(65, 952)
         Me.nidsCompListBox.Name = "nidsCompListBox"
         Me.nidsCompListBox.Size = New System.Drawing.Size(1525, 204)
@@ -155,6 +157,7 @@ Partial Class Form1
         '
         'PictureBox2
         '
+        Me.PictureBox2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.PictureBox2.Image = CType(resources.GetObject("PictureBox2.Image"), System.Drawing.Image)
         Me.PictureBox2.Location = New System.Drawing.Point(65, 473)
         Me.PictureBox2.Name = "PictureBox2"

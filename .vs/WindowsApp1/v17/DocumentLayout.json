@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|c:\\users\\mlabe\\source\\repos\\uhack2024_2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|c:\\users\\mlabe\\source\\repos\\uhack2024_2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -19,16 +15,20 @@
       "RelativeMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|c:\\users\\mlabe\\source\\repos\\uhack2024_2\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|solutionrelative:Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|c:\\users\\mlabe\\source\\repos\\uhack2024_2\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|solutionrelative:loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|c:\\users\\mlabe\\source\\repos\\uhack2024_2\\loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
       "RelativeMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|solutionrelative:loginform1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|solutionrelative:Form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22E3A131-67D5-422A-A1DE-0D4A15C4221C}|WindowsApp1.vbproj|c:\\users\\mlabe\\source\\repos\\uhack2024_2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,20 +50,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Form3.vb",
               "DocumentMoniker": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form3.vb",
               "RelativeDocumentMoniker": "Form3.vb",
               "ToolTip": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form3.vb",
               "RelativeToolTip": "Form3.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-27T17:00:38.748Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form3.vb [Design]",
               "DocumentMoniker": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form3.vb",
               "RelativeDocumentMoniker": "Form3.vb",
@@ -75,20 +75,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form2.vb",
               "DocumentMoniker": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form2.vb",
               "RelativeDocumentMoniker": "Form2.vb",
               "ToolTip": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form2.vb",
               "RelativeToolTip": "Form2.vb",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAiwBUAAABcAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-27T16:08:11.649Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form2.vb [Design]",
               "DocumentMoniker": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form2.vb",
               "RelativeDocumentMoniker": "Form2.vb",
@@ -100,20 +100,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "LoginForm1.vb",
               "DocumentMoniker": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\LoginForm1.vb",
               "RelativeDocumentMoniker": "LoginForm1.vb",
               "ToolTip": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\LoginForm1.vb",
               "RelativeToolTip": "LoginForm1.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-27T15:35:10.96Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "LoginForm1.vb [Design]",
               "DocumentMoniker": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\LoginForm1.vb",
               "RelativeDocumentMoniker": "LoginForm1.vb",
@@ -125,13 +125,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Form1.vb",
               "DocumentMoniker": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form1.vb",
               "RelativeDocumentMoniker": "Form1.vb",
               "ToolTip": "C:\\Users\\mlabe\\source\\repos\\uhack2024_2\\Form1.vb",
               "RelativeToolTip": "Form1.vb",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2024-04-27T02:18:30.518Z",
               "EditorCaption": ""

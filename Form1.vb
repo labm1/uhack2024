@@ -10,7 +10,7 @@ Public Class Form1
         LoginForm1.Close()
         titreLabel.Text = "Gestion des réparations des nids de poules - Équipe " & equipe & ", le " & Date.Today
 
-        nidsListBox.Items.Add("Trou 1")
+        nidsListBox.Items.Add("Nid de poule sur le boulevard Alexandre-Taché        Type de route: Artère principale")
     End Sub
 
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
