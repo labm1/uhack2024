@@ -363,6 +363,7 @@ Partial Class Form2
         Me.donneeLabel.Size = New System.Drawing.Size(176, 25)
         Me.donneeLabel.TabIndex = 24
         Me.donneeLabel.Text = "Données reçues:"
+        Me.donneeLabel.Visible = False
         '
         'Form2
         '
