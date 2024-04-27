@@ -6,16 +6,17 @@
 
         titreLabel.Text = Form1.titreLabel.Text
 
-        Dim nid As String = Form1.nidsListBox.SelectedItem.ToString.Substring(0, 50)
-        nidsLabel.Text = nid
+        Dim webClient As New System.Net.WebClient
+        Dim result As String = webClient.DownloadString("http://localhost:8080/data")
+        donneeLabel.Text = "Données reçues: " & vbNewLine & """" & result & """"
+
 
         rueTextBox.Text = "Boulevard Alexandre-Taché"
         coordTextBox.Text = "45.422718, -75.741300"
-        dateTextBox.Text = "2024-04-27 14:21"
+        dateTextBox.Text = "2024-04-27 14:27"
         typeComboBox.SelectedText = typeComboBox.Items.Item(0)
         equipeTextBox.Text = "1"
         dimTextBox.Text = "40 x 35 cm, 10 cm de profondeur"
-
     End Sub
 
     Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
