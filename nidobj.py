@@ -1,10 +1,10 @@
 import datetime
 from PIL import Image
 class nid_poule:
-    def __init__( latitude , longitude,profondeur,time,photo):# photo = Image.open(path)
+    def __init__( latitude , longitude,profondeur,photo):# photo = Image.open(path)
         latitude =latitude
         longitude= longitude
         profondeur=profondeur
-        time= datetime.datetime.now()
+        date= datetime.datetime.now()
         photo= photo
 
