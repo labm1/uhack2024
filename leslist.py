@@ -45,6 +45,7 @@ def gdownp(dlistofwork):
         return dlistofwork
     
     return gdownp(dlistofwork.append(Nprioritaire.pop(0)))
+
 #remettre dans les listes les element non-reparer dans la liste de tache a faire
 def noncomplete (dlistofwork):
     for x in dlistofwork:
