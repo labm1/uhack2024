@@ -6,9 +6,9 @@
 
         titreLabel.Text = Form1.titreLabel.Text
 
-        Dim webClient As New System.Net.WebClient
-        Dim result As String = webClient.DownloadString("http://localhost:8080/data")
-        donneeLabel.Text = "Données reçues: " & vbNewLine & """" & result & """"
+        'Dim webClient As New System.Net.WebClient
+        'Dim result As String = webClient.DownloadString("http://localhost:8080/data")
+        'donneeLabel.Text = "Données reçues: " & vbNewLine & """" & result & """"
 
 
         rueTextBox.Text = "Boulevard Alexandre-Taché"
